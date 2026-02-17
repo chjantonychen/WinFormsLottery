@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsLottery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+926db38a860a749a8ee76c22871039b2b0bb9ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsLottery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsLottery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
