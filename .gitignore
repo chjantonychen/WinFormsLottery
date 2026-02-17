@@ -33,3 +33,8 @@ artifacts/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# GitHub CLI (本地下载)
+gh.exe
+gh_*.zip
+*.bat
